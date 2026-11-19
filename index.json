@@ -6,5 +6,29 @@
     "website": "https://stenlysayd.github.io",
     "discord": ""
   },
-  "extensionList": {}
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Shinigami",
+        "packageName": "eu.kanade.tachiyomi.extension.id.shinigami",
+        "resources": {
+          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/c3632f0/tachiyomi-id.shinigami-v1.6.86.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@main/src/id/shinigami/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/c3632f0/tachiyomi-id.shinigami-v1.6.86.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106086",
+        "versionName": "1.6.86",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3411809758861089969",
+            "name": "Shinigami",
+            "language": "id",
+            "homeUrl": "https://s1.shinigami.mx"
+          }
+        ]
+      }
+    ]
+  }
 }

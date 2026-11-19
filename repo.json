@@ -1,0 +1,9 @@
+{
+  "index_v2": "https://raw.githubusercontent.com/stenlysayd/extensions/repo/index.pb",
+  "meta": {
+    "name": "Stenly Extensions",
+    "shortName": "STE",
+    "website": "https://stenlysayd.github.io",
+    "signingKeyFingerprint": "ebd47468470abe8af66c8a8cc28f26660b064d7c372a5ece1f1593b52c55d70c"
+  }
+}
