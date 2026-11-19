@@ -1,0 +1,14 @@
+{
+    "signingKey":  "ebd47468470abe8af66c8a8cc28f26660b064d7c372a5ece1f1593b52c55d70c",
+    "extensionList":  {
+                          "extensions":  [
+
+                                         ]
+                      },
+    "badgeLabel":  "STE",
+    "name":  "Stenly Extensions",
+    "contact":  {
+                    "discord":  "",
+                    "website":  "https://stenlysayd.github.io"
+                }
+}
