@@ -12,13 +12,13 @@
         "name": "3600000 Beauty",
         "packageName": "eu.kanade.tachiyomi.extension.all.beauty3600000",
         "resources": {
-          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/4c2f5df/tachiyomi-all.beauty3600000-v1.6.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@main/src/all/beauty3600000/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/4c2f5df/tachiyomi-all.beauty3600000-v1.6.2.jar"
+          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/f686e34/tachiyomi-all.beauty3600000-v1.6.3.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@f686e34cb04a0d14e6a8cdebf26ae2d236335b61/src/all/beauty3600000/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/f686e34/tachiyomi-all.beauty3600000-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -33,13 +33,13 @@
         "name": "NHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/a8cf6c0/tachiyomi-all.nhentai-v1.6.65.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@main/src/all/nhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/a8cf6c0/tachiyomi-all.nhentai-v1.6.65.jar"
+          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/f686e34/tachiyomi-all.nhentai-v1.6.66.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@f686e34cb04a0d14e6a8cdebf26ae2d236335b61/src/all/nhentai/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/f686e34/tachiyomi-all.nhentai-v1.6.66.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106065",
-        "versionName": "1.6.65",
+        "versionCode": "106066",
+        "versionName": "1.6.66",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
