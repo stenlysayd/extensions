@@ -12,13 +12,13 @@
         "name": "Shinigami",
         "packageName": "eu.kanade.tachiyomi.extension.id.shinigami",
         "resources": {
-          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/c3632f0/tachiyomi-id.shinigami-v1.6.86.apk",
+          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/untagged-91da24b5bfc5cb22be0e/tachiyomi-id.shinigami-v1.6.87.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@main/src/id/shinigami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/c3632f0/tachiyomi-id.shinigami-v1.6.86.jar"
+          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/untagged-91da24b5bfc5cb22be0e/tachiyomi-id.shinigami-v1.6.87.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106086",
-        "versionName": "1.6.86",
+        "versionCode": "106087",
+        "versionName": "1.6.87",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
