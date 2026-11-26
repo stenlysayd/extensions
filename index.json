@@ -12,13 +12,13 @@
         "name": "3600000 Beauty",
         "packageName": "eu.kanade.tachiyomi.extension.all.beauty3600000",
         "resources": {
-          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/f686e34/tachiyomi-all.beauty3600000-v1.6.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@f686e34cb04a0d14e6a8cdebf26ae2d236335b61/src/all/beauty3600000/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/f686e34/tachiyomi-all.beauty3600000-v1.6.3.jar"
+          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/ebe6c66/tachiyomi-all.beauty3600000-v1.4.2004.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@main/src/all/beauty3600000/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/ebe6c66/tachiyomi-all.beauty3600000-v1.4.2004.jar"
         },
-        "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "extensionLib": "1.4",
+        "versionCode": "106004",
+        "versionName": "1.4.2004",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -33,13 +33,13 @@
         "name": "NHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/e571cb0/tachiyomi-all.nhentai-v1.6.68.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@f686e34cb04a0d14e6a8cdebf26ae2d236335b61/src/all/nhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/e571cb0/tachiyomi-all.nhentai-v1.6.68.jar"
+          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/ebe6c66/tachiyomi-all.nhentai-v1.4.2069.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@main/src/all/nhentai/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/ebe6c66/tachiyomi-all.nhentai-v1.4.2069.jar"
         },
-        "extensionLib": "1.6",
-        "versionCode": "106068",
-        "versionName": "1.6.68",
+        "extensionLib": "1.4",
+        "versionCode": "106069",
+        "versionName": "1.4.2069",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -72,13 +72,13 @@
         "name": "Shinigami",
         "packageName": "eu.kanade.tachiyomi.extension.id.shinigami",
         "resources": {
-          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/f48392b/tachiyomi-id.shinigami-v1.6.87.apk",
+          "apkUrl": "https://github.com/stenlysayd/extensions/releases/download/ebe6c66/tachiyomi-id.shinigami-v1.4.2088.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/stenlysayd/extensions-source@main/src/id/shinigami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/f48392b/tachiyomi-id.shinigami-v1.6.87.jar"
+          "jarUrl": "https://github.com/stenlysayd/extensions/releases/download/ebe6c66/tachiyomi-id.shinigami-v1.4.2088.jar"
         },
-        "extensionLib": "1.6",
-        "versionCode": "106087",
-        "versionName": "1.6.87",
+        "extensionLib": "1.4",
+        "versionCode": "106088",
+        "versionName": "1.4.2088",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
